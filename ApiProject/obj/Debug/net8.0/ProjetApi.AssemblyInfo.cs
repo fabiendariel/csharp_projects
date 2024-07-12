@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Calculatrice")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProjetApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72f436182888eae6a6d32c6e3c9fdac9f0aa9bc9")]
-[assembly: System.Reflection.AssemblyProductAttribute("Calculatrice")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Calculatrice")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProjetApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProjetApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
